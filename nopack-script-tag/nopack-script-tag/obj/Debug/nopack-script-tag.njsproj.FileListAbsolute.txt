@@ -1,0 +1,2 @@
+D:\React\nopack-script-tag\nopack-script-tag\obj\Debug\nopack-script-tag.njsproj.CoreCompileInputs.cache
+D:\React\nopack-script-tag\nopack-script-tag\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,21 @@
+{
+  "name": "nopack-amd",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "nopack-amd",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "requirejs": "^2.3.6"
+  }
+}

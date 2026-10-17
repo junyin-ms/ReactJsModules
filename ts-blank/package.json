@@ -1,0 +1,19 @@
+{
+  "name": "ts-blank",
+  "version": "1.0.0",
+  "description": "ts-blank",
+  "scripts": {
+    "clean": "rd /q/s dist",
+    "build": "webpack --mode production",
+    "build:dev": "webpack --mode development"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "ts-loader": "^9.4.3",
+    "typescript": "^5.0.4",
+    "webpack": "^5.84.1",
+    "webpack-cli": "^5.1.1"
+  }
+}

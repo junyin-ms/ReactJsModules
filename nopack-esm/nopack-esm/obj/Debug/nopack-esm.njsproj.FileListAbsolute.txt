@@ -1,0 +1,2 @@
+D:\React\nopack-esm\nopack-esm\obj\Debug\nopack-esm.njsproj.CoreCompileInputs.cache
+D:\React\nopack-esm\nopack-esm\bin\Microsoft.NodejsTools.WebRole.dll

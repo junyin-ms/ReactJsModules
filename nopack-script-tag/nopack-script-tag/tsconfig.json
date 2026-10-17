@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "moduleResolution": "node",
+    "target": "es6",
+    "lib": [ "es6", "dom" ],
+    "jsx": "react",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

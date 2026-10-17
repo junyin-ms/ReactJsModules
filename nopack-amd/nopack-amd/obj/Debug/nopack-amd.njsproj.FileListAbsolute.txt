@@ -1,0 +1,3 @@
+D:\React\nopack-amd\nopack-amd\obj\Debug\nopack-amd.njsproj.CoreCompileInputs.cache
+D:\React\nopack-amd\nopack-amd\bin\Microsoft.NodejsTools.WebRole.dll
+D:\React\nopack-amd\nopack-amd\obj\Debug\nopack-amd.njsproj.AssemblyReference.cache

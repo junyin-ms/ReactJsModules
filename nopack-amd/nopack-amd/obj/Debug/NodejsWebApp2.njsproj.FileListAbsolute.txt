@@ -1,0 +1,2 @@
+C:\Users\junyin\Documents\Visual Studio 2019\Projects\NodejsWebApp2\NodejsWebApp2\obj\Debug\NodejsWebApp2.njsproj.CoreCompileInputs.cache
+C:\Users\junyin\Documents\Visual Studio 2019\Projects\NodejsWebApp2\NodejsWebApp2\bin\Microsoft.NodejsTools.WebRole.dll

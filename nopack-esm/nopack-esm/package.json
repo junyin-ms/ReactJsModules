@@ -1,0 +1,16 @@
+{
+  "name": "nopack-esm",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "nopack-esm",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
